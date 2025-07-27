@@ -1,6 +1,9 @@
 # Node.js
 node_modules/
 .env
+frontend/build/
+backend/uploads/
+
 
 # Logs
 *.log
@@ -9,5 +12,4 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Build outputs
-frontend/build
+
